@@ -1,4 +1,4 @@
-test_add_new_book_add_two_books - Проверка добавления 2 книг
+test_add_new_book_add_two_books - Проверка добавления двух книг
 test_set_book_genre_and_get_it - Проверка добавления к книге жанра и проверка корректности записи.
 test_get_books_with_specific_genre - Проверка получения добавленных книг с жанром Ужасы.
 test_get_books_genre - Проверка добавления книг и получения словаря с ключом - название книги, значение - жанр.
